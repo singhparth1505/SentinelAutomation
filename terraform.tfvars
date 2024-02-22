@@ -1,0 +1,2 @@
+vmuser = "username"
+vmpass = "password"
